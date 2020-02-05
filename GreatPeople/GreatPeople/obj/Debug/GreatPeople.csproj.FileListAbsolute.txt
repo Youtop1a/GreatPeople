@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\GreatPeople\GreatPeople\bin\Debug\GreatPeople.exe.config
+C:\Users\User\source\repos\GreatPeople\GreatPeople\bin\Debug\GreatPeople.exe
+C:\Users\User\source\repos\GreatPeople\GreatPeople\bin\Debug\GreatPeople.pdb
+C:\Users\User\source\repos\GreatPeople\GreatPeople\obj\Debug\GreatPeople.csprojAssemblyReference.cache
+C:\Users\User\source\repos\GreatPeople\GreatPeople\obj\Debug\GreatPeople.Authorization.resources
+C:\Users\User\source\repos\GreatPeople\GreatPeople\obj\Debug\GreatPeople.Bd.resources
+C:\Users\User\source\repos\GreatPeople\GreatPeople\obj\Debug\GreatPeople.Main.resources
+C:\Users\User\source\repos\GreatPeople\GreatPeople\obj\Debug\GreatPeople.Properties.Resources.resources
+C:\Users\User\source\repos\GreatPeople\GreatPeople\obj\Debug\GreatPeople.Registration.resources
+C:\Users\User\source\repos\GreatPeople\GreatPeople\obj\Debug\GreatPeople.csproj.GenerateResource.cache
+C:\Users\User\source\repos\GreatPeople\GreatPeople\obj\Debug\GreatPeople.exe
+C:\Users\User\source\repos\GreatPeople\GreatPeople\obj\Debug\GreatPeople.pdb
