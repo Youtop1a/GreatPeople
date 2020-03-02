@@ -46,6 +46,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Model\EditionRequest.cs" />
+    <Compile Include="Model\FieldOfActivity.cs" />
+    <Compile Include="Model\GreatPeoples.cs" />
+    <Compile Include="Model\Repository.cs" />
+    <Compile Include="Model\User.cs" />
     <Compile Include="PresentationLayer\Authorization.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -114,6 +119,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="DataLevel\EditionRequests.xml" />
+    <Content Include="DataLevel\FieldsOfActivity.xml" />
+    <Content Include="DataLevel\GreatPeople.xml" />
+    <Content Include="DataLevel\Users.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
